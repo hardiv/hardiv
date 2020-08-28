@@ -1,4 +1,4 @@
-![Image of Yaktocat]()
+![Profile Banner]()
 
 <!--
 **hardiv/hardiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
