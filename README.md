@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat]()
 
 <!--
 **hardiv/hardiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
