@@ -1,8 +1,9 @@
-### Hi there, I'm Hardiv 👋
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 <!--
 **hardiv/hardiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+## Hi, I'm Hardiv
 
 - 🔭 I’m currently working on a python calculator project and code for our team's robot in the VEX Robotics Competition
 
