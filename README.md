@@ -9,10 +9,8 @@
 
 - 🌱 I’m currently learning data science with the Tech Bytes Foundation
 
-- 👯 I’m not looking to collaborate on anything for now, but may do in the future!
-
 - 🤔 I’m looking for help with how Artificial Intelligence works
 
 - 📫 How to reach me: hardivhk@gmail.com
 
-- ⚡ Fun fact: I am not a robot (Take note, captchas)
+- ⚡ Fun fact: I am **not** a robot
