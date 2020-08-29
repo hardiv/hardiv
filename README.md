@@ -3,14 +3,6 @@
 <!--
 **hardiv/hardiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## 👋 Hi, I'm Hardiv
+## 👋 Hi, I'm Hardiv 😀
 
-- 🔭 I’m currently working on a python calculator project and code for our team's robot in the VEX Robotics Competition
-
-- 🌱 I’m currently learning data science with the Tech Bytes Foundation
-
-- 🤔 I’m looking for help with how Artificial Intelligence works
-
-- 📫 How to reach me: hardivhk@gmail.com
-
-- ⚡ Fun fact: I am **not** a robot
+Take a look at my pinned repositories below (Some of them are a work in progress):
