@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/hardiv/hardiv/blob/master/Github%20Banner.png)
+![Profile Banner](https://github.com/hardiv/hardiv/blob/master/Github%20Banner.gif)
 
 <!--
 **hardiv/hardiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
