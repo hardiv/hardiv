@@ -5,7 +5,7 @@
 -->
 ## 👋 Hi, I'm Hardiv
 
-Welcome to my GitHub Profile! 🐈
+Welcome to my GitHub Profile!
 
 I mainly make random projects with Python 🐍
 
