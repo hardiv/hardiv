@@ -7,8 +7,10 @@
 
 Welcome to my GitHub Profile!
 
-I mainly make random projects with Python 🐍
+I love coding, robotics and AI. �
 
-I'm also a maker, tinkering with Raspberry Pi and breadboards in my spare time. ⚡
+My mother tongue is Python 🐍, although I also speak Java ☕, C++ and HTML.
+
+I'm also a maker, tinkering with Raspberry Pi and breadboards in my spare time, mostly for robotics projects. ⚡
 
 Feel free to take a look at my pinned repositories below 🙂 (Some of them are a work in progress):
