@@ -7,7 +7,7 @@
 
 Welcome to my GitHub Profile!
 
-I love coding, robotics and AI. �
+I love coding, robotics and AI. 🤖
 
 My mother tongue is Python 🐍, although I also speak Java ☕, C++ and HTML.
 
