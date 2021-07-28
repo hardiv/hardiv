@@ -9,7 +9,7 @@ Welcome to my GitHub Profile!
 
 I love coding and AI. 🤖
 
-My mother tongue is Python 🐍, although I also speak Java ☕, C++ and HTML.
+My mother tongue is Python 🐍, although I also speak Java ☕, C++ and some Web Dev.
 
 I'm also a maker, tinkering with Raspberry Pi and breadboards in my spare time, mostly for robotics projects. ⚡
 
