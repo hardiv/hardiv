@@ -16,13 +16,7 @@ I'm Hardiv, a CS student at Imperial College London with a strong interest in AI
 - **Version Control**: GitHub, GitLab
 - **Tools & Platforms**: Linux CLI, Raspberry Pi, Microcontrollers
 
-## 💼 Experience
-
-### Remote Software Developer
-**Software Cornwall** | DEC 2020 - JAN 2021
-- Developed Arduino-based robotics solutions with Agile methodology
-
-## 🌟 Projects
+## 💻 Projects
 
 - **GripPi**: Stroke patient glove exoskeleton using Raspberry Pi and TensorFlow
 - **FireSense**: Fire detection model with CNN and drone integration
