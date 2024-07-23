@@ -9,9 +9,9 @@ I'm Hardiv, a CS student at Imperial College London with a strong interest in AI
 
 ## 🛠️ Skills
 
-- **Leadership & Management**: Team Leadership, Agile Project Management
 - **Programming Languages**: Python, Java, Haskell, C, Kotlin, Javascript, Scala
 - **AI/ML**: TensorFlow, AI/ML Principles
+- **Leadership & Management**: Team Leadership, Agile Project Management
 - **Web & App Development**: Django, React, Next.js
 - **Version Control**: GitHub, GitLab
 - **Tools & Platforms**: Linux CLI, Raspberry Pi, Microcontrollers
