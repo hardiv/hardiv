@@ -16,18 +16,10 @@ I'm Hardiv, a CS student at Imperial College London with a strong interest in AI
 - **Version Control**: GitHub, GitLab
 - **Tools & Platforms**: Linux CLI, Raspberry Pi, Microcontrollers
 
-## 💻 Projects
+---
 
-- **GripPi**: Stroke patient glove exoskeleton using Raspberry Pi and TensorFlow
-- **FireSense**: Fire detection model with CNN and drone integration
-- **Tech Students UK**: Educational website made with Django, complete with interactive database features
-- **SkinSense**: Skin moisture detection system using a CNN and Raspberry Pi
-- **Armv8 Assembler & Emulator**: Developed ARMv8 assembler and emulator with C
-- **Arduino Robot**: Created software for Arduino robot with C++
-- **Huscle Website**: Developed interactive 3D website with Next.js, React, and Three.js
-
-Feel free to connect or explore my projects and contributions!
+[LinkedIn](https://www.linkedin.com/in/hardiv-harshakumar) | [Huscle](https://husclefitness.co.uk)
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/hardiv-harshakumar) | [GitHub](https://github.com/hardiv) | [Huscle Inc.](https://husclefitness.co.uk)
+Feel free to connect or explore my projects and contributions!
