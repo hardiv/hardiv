@@ -5,7 +5,7 @@
 -->
 # Welcome!
 
-I'm Hardiv, a CS student at Imperial College London with a strong interest in AI and crafting beautiful software, both for users and developers. As a Full-Stack Engineer and Project Manager at Huscle, I lead a team to create a cutting-edge fitness platform. My experience spans project management, software development, and leadership, demonstrated through various high-impact projects and achievements.
+I'm Hardiv, a CS student at Imperial College London with a strong interest in AI and crafting beautiful software, both inside and out. As a Full-Stack Engineer and Project Manager at Huscle, I lead a team to create a cutting-edge fitness platform. My experience spans project management, software development, and leadership, demonstrated through various high-impact projects and achievements.
 
 ## 🛠️ Skills
 
