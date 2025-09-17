@@ -10,11 +10,9 @@ I'm Hardiv, a Computing student at Imperial College London passionate about craf
 ## 🛠️ Skills
 
 - **Programming Languages**: Python, Java, Haskell, C, Kotlin, Javascript, Scala
-- **AI/ML**: TensorFlow, AI/ML Principles
-- **Leadership & Management**: Team Leadership, Agile Project Management
-- **Web & App Development**: Django, React, Next.js
-- **Version Control**: GitHub, GitLab
-- **Tools & Platforms**: Linux CLI, Raspberry Pi, Microcontrollers
+- **AI/ML**: TensorFlow, OpenCV
+- **Web & App Development**: Django, React, Next.js, React Native, Expo
+- **Tools & Platforms**: Linux CLI, Raspberry Pi
 
 ---
 
