@@ -5,19 +5,8 @@
 -->
 # Welcome!
 
-I'm Hardiv, a Computing student at Imperial College London passionate about crafting beautiful software, both inside and out.
-
-## 🛠️ Skills
-
-- **Programming Languages**: Python, Java, Haskell, C, Kotlin, Javascript, Scala
-- **AI/ML**: TensorFlow, OpenCV
-- **Web & App Development**: Django, React, Next.js, React Native, Expo
-- **Tools & Platforms**: Linux CLI, Raspberry Pi
-
----
+I'm Hardiv, Computing student at Imperial College London and Lead Engineer at Voxaris, the AI agent streamlining front-desk workflows for medical clinics.
 
 [LinkedIn](https://www.linkedin.com/in/hardiv-harshakumar)
 
----
 
-Feel free to connect or explore my projects and contributions!
